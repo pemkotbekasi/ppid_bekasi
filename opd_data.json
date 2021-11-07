@@ -1,0 +1,212 @@
+[
+  {
+    "path": "data/1080/1080.json",
+    "reg_opd": 1080,
+    "opd": "Badan Kepegawaian, Pendidikan, dan Pelatihan Kota Bekasi"
+  },
+  {
+    "path": "data/1089/1089.json",
+    "reg_opd": 1089,
+    "opd": "Badan Kesatuan Bangsa dan Politik Kota Bekasi"
+  },
+  {
+    "path": "data/1543/1543.json",
+    "reg_opd": 1543,
+    "opd": "Badan Penanggulan Bencana Daerah Kota Bekasi"
+  },
+  {
+    "path": "data/1087/1087.json",
+    "reg_opd": 1087,
+    "opd": "Badan Pendapatan Daerah Kota Bekasi"
+  },
+  {
+    "path": "data/1082/1082.json",
+    "reg_opd": 1082,
+    "opd": "Badan Penelitian dan Pengembangan Daerah Kota Bekasi"
+  },
+  {
+    "path": "data/1088/1088.json",
+    "reg_opd": 1088,
+    "opd": "Badan Pengelolaan Keuangan dan Aset Daerah Kota Bekasi"
+  },
+  {
+    "path": "data/1081/1081.json",
+    "reg_opd": 1081,
+    "opd": "Badan Perencanaan  Pembangunan Daerah Kota Bekasi"
+  },
+  {
+    "path": "data/2455/2455.json",
+    "reg_opd": 2455,
+    "opd": "Dinas Bina Marga dan Sumber Daya Air Kota Bekasi"
+  },
+  {
+    "path": "data/1100/1100.json",
+    "reg_opd": 1100,
+    "opd": "Dinas Kepemudaan dan Olahraga Kota Bekasi"
+  },
+  {
+    "path": "data/1123/1123.json",
+    "reg_opd": 1123,
+    "opd": "Dinas Kependudukan dan Pencatatan Sipil Kota Bekasi"
+  },
+  {
+    "path": "data/1103/1103.json",
+    "reg_opd": 1103,
+    "opd": "Dinas Kesehatan Kota Bekasi"
+  },
+  {
+    "path": "data/1118/1118.json",
+    "reg_opd": 1118,
+    "opd": "Dinas Ketahanan Pangan Pertanian dan Perikanan Kota Bekasi"
+  },
+  {
+    "path": "data/1119/1119.json",
+    "reg_opd": 1119,
+    "opd": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Bekasi"
+  },
+  {
+    "path": "data/1099/1099.json",
+    "reg_opd": 1099,
+    "opd": "Dinas Koperasi, Usaha Kecil dan Menengah Kota Bekasi"
+  },
+  {
+    "path": "data/1094/1094.json",
+    "reg_opd": 1094,
+    "opd": "Dinas Lingkungan Hidup Kota Bekasi"
+  },
+  {
+    "path": "data/1122/1122.json",
+    "reg_opd": 1122,
+    "opd": "Dinas Pemadam Kebakaran Kota Bekasi"
+  },
+  {
+    "path": "data/1091/1091.json",
+    "reg_opd": 1091,
+    "opd": "Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kota Bekasi"
+  },
+  {
+    "path": "data/1095/1095.json",
+    "reg_opd": 1095,
+    "opd": "Dinas Penanaman Modal dan PelayananTerpadu Satu Pintu Kota Bekasi"
+  },
+  {
+    "path": "data/1101/1101.json",
+    "reg_opd": 1101,
+    "opd": "Dinas Pendidikan Kota Bekasi"
+  },
+  {
+    "path": "data/1090/1090.json",
+    "reg_opd": 1090,
+    "opd": "Dinas Pengendalian Penduduk dan Keluarga Berencana Kota Bekasi"
+  },
+  {
+    "path": "data/1057/1057.json",
+    "reg_opd": 1057,
+    "opd": "Dinas Pengendalian Penduduk dan Keluarga Berencana Kota bekasi"
+  },
+  {
+    "path": "data/1116/1116.json",
+    "reg_opd": 1116,
+    "opd": "Dinas Perhubungan Kota Bekasi"
+  },
+  {
+    "path": "data/1096/1096.json",
+    "reg_opd": 1096,
+    "opd": "Dinas Perumahan, Kawasan Permukiman dan Pertanahan Kota Bekasi"
+  },
+  {
+    "path": "data/1115/1115.json",
+    "reg_opd": 1115,
+    "opd": "Dinas Sosial Kota Bekasi"
+  },
+  {
+    "path": "data/2456/2456.json",
+    "reg_opd": 2456,
+    "opd": "Dinas Tata Ruang Kota Bekasi"
+  },
+  {
+    "path": "data/1102/1102.json",
+    "reg_opd": 1102,
+    "opd": "Dinas Tenaga Kerja Kota Bekasi"
+  },
+  {
+    "path": "data/1542/1542.json",
+    "reg_opd": 1542,
+    "opd": "Inspektorat Kota Bekasi"
+  },
+  {
+    "path": "data/1131/1131.json",
+    "reg_opd": 1131,
+    "opd": "Kecamatan Bantargebang"
+  },
+  {
+    "path": "data/1127/1127.json",
+    "reg_opd": 1127,
+    "opd": "Kecamatan Bekasi Barat"
+  },
+  {
+    "path": "data/1126/1126.json",
+    "reg_opd": 1126,
+    "opd": "Kecamatan Bekasi Selatan "
+  },
+  {
+    "path": "data/1139/1139.json",
+    "reg_opd": 1139,
+    "opd": "Kecamatan Bekasi Timur"
+  },
+  {
+    "path": "data/1133/1133.json",
+    "reg_opd": 1133,
+    "opd": "Kecamatan Bekasi Utara"
+  },
+  {
+    "path": "data/1135/1135.json",
+    "reg_opd": 1135,
+    "opd": "Kecamatan Jatiasih"
+  },
+  {
+    "path": "data/1136/1136.json",
+    "reg_opd": 1136,
+    "opd": "Kecamatan Jatisampurna"
+  },
+  {
+    "path": "data/1128/1128.json",
+    "reg_opd": 1128,
+    "opd": "Kecamatan Medan Satria"
+  },
+  {
+    "path": "data/1130/1130.json",
+    "reg_opd": 1130,
+    "opd": "Kecamatan Mustikajaya"
+  },
+  {
+    "path": "data/1137/1137.json",
+    "reg_opd": 1137,
+    "opd": "Kecamatan Pondok Melati"
+  },
+  {
+    "path": "data/1546/1546.json",
+    "reg_opd": 1546,
+    "opd": "PPID Utama Kota Bekasi"
+  },
+  {
+    "path": "data/1861/1861.json",
+    "reg_opd": 1861,
+    "opd": "Pemerintah  Kota Bekasi"
+  },
+  {
+    "path": "data/1545/1545.json",
+    "reg_opd": 1545,
+    "opd": "RSUD Kota Bekasi"
+  },
+  {
+    "path": "data/1124/1124.json",
+    "reg_opd": 1124,
+    "opd": "Satuan Polisi Pamong Praja Kota Bekasi"
+  },
+  {
+    "path": "data/1541/1541.json",
+    "reg_opd": 1541,
+    "opd": "Sekretaris Dewan Perwakilan Rakyat Daerah Kota Bekasi"
+  }
+]
