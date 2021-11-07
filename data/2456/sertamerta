@@ -1,27 +1,5 @@
 [
   {
-    "judul": "Rencana Strategis (RENSTRA) Dinas Tata Ruang Kota Bekasi Tahun 2018-2013",
-    "deskripsi": "Rencana Strategis (RENSTRA) Dinas Tata Ruang Kota Bekasi Tahun 2018-2013",
-    "kode": "300076525",
-    "dokumen_kategori": "Berkala",
-    "opd": "Dinas Tata Ruang Kota Bekasi",
-    "reg_opd": 2456,
-    "created_at": "2020-08-25 08:12:06",
-    "jenis_informasi": "Program dan Kegiatan",
-    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300076525"
-  },
-  {
-    "judul": "Laporan Kinerja Harian Bulan April 2019 Pada DInas Tata Ruang Kota Bekasi",
-    "deskripsi": "Laporan Kinerja Harian Bulan April 2019 pada Dinas Tata Ruang Kota Bekasi",
-    "kode": "300031806",
-    "dokumen_kategori": "Berkala",
-    "opd": "Dinas Tata Ruang Kota Bekasi",
-    "reg_opd": 2456,
-    "created_at": "2019-05-13 09:13:56",
-    "jenis_informasi": "Informasi Kinerja",
-    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300031806"
-  },
-  {
     "judul": "Peraturan Daerah Kota Bekasi No. 06 Tahun 2018",
     "deskripsi": "Tentang Perubahan Kedua Atas Peraturan Daerah Nomor 16 Tahun 2011 Tentang Penyediaan dan Penyerahan Prasarana, Sarana, dan Utilitas Umum Kawasan Perumahan, Perdagangan, dan Industri Oleh Pengembang Di Kota Bekasi",
     "kode": "300076540",
@@ -119,38 +97,5 @@
     "created_at": "2020-08-24 16:02:53",
     "jenis_informasi": "Profil Badan Publik",
     "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300076508"
-  },
-  {
-    "judul": "Keputusan Kepala Dinas Nomor 067/Kep.2115-Distaru/X/2019",
-    "deskripsi": "Lampiran XXX Keputusan Kepala Dinas tentang Standar Operasional Prosedur (SOP) Penerbitan Keterangan Rencana Kota (KRK)",
-    "kode": "300076570",
-    "dokumen_kategori": "Setiap Saat",
-    "opd": "Dinas Tata Ruang Kota Bekasi",
-    "reg_opd": 2456,
-    "created_at": "2020-08-25 09:01:28",
-    "jenis_informasi": "Regulasi",
-    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300076570"
-  },
-  {
-    "judul": "Perwal Nomor 78 Tahun 2017",
-    "deskripsi": "Perwal Nomor 78 Tahun 2017 Tentang Kedudukan, Susunan Organisasi, Tugas Pokok dan Fungsi Serta Tata Kerja pada Dinas Tata Ruang Kota Bekasi",
-    "kode": "300011990",
-    "dokumen_kategori": "Setiap Saat",
-    "opd": "Dinas Tata Ruang Kota Bekasi",
-    "reg_opd": 2456,
-    "created_at": "2018-05-08 13:46:34",
-    "jenis_informasi": "Profil Badan Publik",
-    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300011990"
-  },
-  {
-    "judul": "Informasi Tentang Dinas Tata Ruang Kota Bekasi",
-    "deskripsi": "Kunjungi Website Kami<p><a href=\"http://distaru.bekasikota.go.id/id/\">Klik Disini<a/><p/>",
-    "kode": "500011973",
-    "dokumen_kategori": "Setiap Saat",
-    "opd": "Dinas Tata Ruang Kota Bekasi",
-    "reg_opd": 2456,
-    "created_at": "2018-05-08 13:25:53",
-    "jenis_informasi": "Profil Badan Publik",
-    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500011973"
   }
 ]

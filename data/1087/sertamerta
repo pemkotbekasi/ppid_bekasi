@@ -1,0 +1,35 @@
+[
+  {
+    "judul": "LAPORAN HASIL SURVEI INDEKS KEPUASAN MASYARAKAT",
+    "deskripsi": "Hasil Indeks Kepuasan Masyarakat",
+    "kode": "300048501",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "Badan Pendapatan Daerah Kota Bekasi",
+    "reg_opd": 1087,
+    "created_at": "2019-09-18 16:21:26",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300048501"
+  },
+  {
+    "judul": "Upaya dalam meningkatkan Pendapatan Asli Daerah",
+    "deskripsi": "Dalam meningkatkan Pendapatan Asli daerah upaya apa saja yang sudah di laksanakan oleh Badan Pendapatan Daerah Kota Bekasi",
+    "kode": "400011944",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "Badan Pendapatan Daerah Kota Bekasi",
+    "reg_opd": 1087,
+    "created_at": "2018-05-08 10:17:13",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/400011944"
+  },
+  {
+    "judul": "E-PBB",
+    "deskripsi": "Informasi untuk Wajib Pajak mengechek  Pelayanan Pajak Bumi dan Bangunan. Dalam Bentuk Aplikasi untuk Smartphone Android (dapat downloads di Playstore) dengan nama file \"Info PBB Kota Bekasi\" dan dapat di lihat juga di website \"pbb.bekasikota.go.id\"",
+    "kode": "300011915",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "Badan Pendapatan Daerah Kota Bekasi",
+    "reg_opd": 1087,
+    "created_at": "2018-05-08 09:54:54",
+    "jenis_informasi": "Laporan dan prosedur akses informasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300011915"
+  }
+]

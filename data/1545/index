@@ -374,6 +374,61 @@
     "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000271"
   },
   {
+    "judul": "SOP CODE BLUE RSUD dr. CHASBULLAH ABDULMADJID KOTA BEKASI",
+    "deskripsi": "Code blue merupakan salah satu kode prosedur emergensi yang harus segera diaktifkan jika ditemukan seseorang dalam kondisi cardiaerespiratory arrest di dalam area rumah sakit.",
+    "kode": "300088969",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "RSUD Kota Bekasi",
+    "reg_opd": 1545,
+    "created_at": "2020-11-01 22:13:24",
+    "jenis_informasi": "Informasi Darurat",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300088969"
+  },
+  {
+    "judul": "SOP CODE RED RSUD dr. CHASBULLAH ABDULMADJID KOTA BEKASI",
+    "deskripsi": "Code Merah adalah kode yang mengumumkan adanya ancaman kebakaran di lingkungan rumah sakit (api maupun asap), sekaligus mengaktifkan tim siaga bencana rumah sakit untuk kasus kebakaran. Dimana tim ini terdiri dari seluruh personal rumah sakit, yang masing – masing memiliki peran spesifik yang harus dikerjakan sesuai panduan tanggap darurat bencana rumah sakit. Misalnya petugas teknik segera mematikan listrik di area kebakaran, perawat segera memobilisasi pasien ke titik-titik evakuasi, dan sebagainya.",
+    "kode": "500088968",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "RSUD Kota Bekasi",
+    "reg_opd": 1545,
+    "created_at": "2020-11-01 22:12:13",
+    "jenis_informasi": "Informasi Darurat",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500088968"
+  },
+  {
+    "judul": "Kebijakan Pandemi Covid-19 RSUD dr. Chasbullah Abdulmadjid Kota Bekasi",
+    "deskripsi": "Kebijakan Pandemi Covid-19 RSUD dr. Chasbullah Abdulmadjid Kota Bekasi\r\nDapat dilihat di website RSUD dr. Chasbullah Abdulmadjid Kota Bekasi\r\n<br>\r\nwww.rsud.bekasikota.go.id \r\n<center><br>atau<br></center>\r\n<a href=\"http://www.rsudkotabekasi.net/kebijakan-pandemi-covid-19/\" target=\"_blank\"><img src=\"http://www.rsudkotabekasi.net/wp-content/uploads/2020/10/giamportone180900394.png\" width=\"200\" height=\"42\" /></a>",
+    "kode": "500088967",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "RSUD Kota Bekasi",
+    "reg_opd": 1545,
+    "created_at": "2020-11-01 21:39:52",
+    "jenis_informasi": "Informasi Darurat",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500088967"
+  },
+  {
+    "judul": "SURAT EDARAN DIREKTUR RSUD dr. CHASBULLAH ABDULMADJID KOTA BEKASI NOMOR : 445.1/4803.A-RSUD/VIII/2020 TENTANG PERATURAN TERHADAP PENUNGGU PASIEN RAWAT INAP DAN IGD DALAM MASA PANDEMI COVID-19",
+    "deskripsi": "Peraturan tentang penunngu pasien di rawat inap dan IGD dalam masa pandemi RSUD dr. Chasbullah Abdulmadjid Kota Bekasi",
+    "kode": "300088952",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "RSUD Kota Bekasi",
+    "reg_opd": 1545,
+    "created_at": "2020-11-01 10:42:54",
+    "jenis_informasi": "Informasi Darurat",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300088952"
+  },
+  {
+    "judul": "SURAT EDARAN DIREKTUR RSUD dr. CHASBULLAH ABDULMADJID KOTA BEKASI NOMOR : 443 / 1234 - RSUD TENTANG KEBIJAKAN PELAYANAN DALAM UPAYA PENINGKATAN KEWASPADAAN DAN KESIAPSIAGAAN MENGHADAPI INFEKSI CORONA VIRUS (COVID-19).",
+    "deskripsi": "Kebijakan tentang pelayanan RSUD dr. Chasbullah Abdulmadjid Kota Bekasi selama pandmi covid-19",
+    "kode": "300088951",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "RSUD Kota Bekasi",
+    "reg_opd": 1545,
+    "created_at": "2020-11-01 10:40:44",
+    "jenis_informasi": "Informasi Darurat",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300088951"
+  },
+  {
     "judul": "Peraturan Menteri Dalam Negei Nomor 79 Tahun 2018 Tentang Badan Layanan Umum Daerah",
     "deskripsi": "Peraturan Menteri Dalam Negei Nomor 79 Tahun 2018 Tentang Badan Layanan Umum Daerah",
     "kode": "500115123",

@@ -1,0 +1,35 @@
+[
+  {
+    "judul": "LAPORAN HARIAN KINERJA DINAS KETAHANAN PANGAN KOTA BEKASI",
+    "deskripsi": "LAPORAN HARIAN KINERJA DINAS KETAHANAN PANGAN KOTA BEKASI",
+    "kode": "300021649",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "Dinas Ketahanan Pangan Pertanian dan Perikanan Kota Bekasi",
+    "reg_opd": 1118,
+    "created_at": "2018-11-06 07:18:10",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300021649"
+  },
+  {
+    "judul": "SIKEPO",
+    "deskripsi": "Laporan SIKEPO",
+    "kode": "300021321",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "Dinas Ketahanan Pangan Pertanian dan Perikanan Kota Bekasi",
+    "reg_opd": 1118,
+    "created_at": "2018-10-30 15:20:52",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300021321"
+  },
+  {
+    "judul": "LAPORAN MINGGUAN DINAS KETAHANAN PANGAN KOTA BEKASI",
+    "deskripsi": "LAPORAN MINGGUAN DINAS KETAHANAN PANGAN KOTA BEKASI",
+    "kode": "300021320",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "Dinas Ketahanan Pangan Pertanian dan Perikanan Kota Bekasi",
+    "reg_opd": 1118,
+    "created_at": "2018-10-30 15:13:00",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300021320"
+  }
+]
