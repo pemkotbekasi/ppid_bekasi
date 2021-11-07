@@ -1,0 +1,46 @@
+[
+  {
+    "judul": "web dpppa.bekasikotai.go.id",
+    "deskripsi": "<p><a href=\"https://dpppa.bekasikota.go.id/\">Informasi Publik yang disediakan melalui website.....</a></p>",
+    "kode": "500011919",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kota Bekasi",
+    "reg_opd": 1091,
+    "created_at": "2018-05-08 09:58:47",
+    "jenis_informasi": "Laporan dan prosedur akses informasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500011919"
+  },
+  {
+    "judul": "RENSTRA DPPPA 2013-2018",
+    "deskripsi": "<p>RENSTRA DPPPA 2013-2018</p>",
+    "kode": "30650000168",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kota Bekasi",
+    "reg_opd": 1091,
+    "created_at": "2017-10-03 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000168"
+  },
+  {
+    "judul": "Struktur Organisasi Dinas Pemberdayaan Perempuan dan Perlindungan Anak",
+    "deskripsi": "<p>Struktur Organisasi Dinas Pemberdayaan Perempuan dan Perlindungan Anak  Kota Bekasi</p>",
+    "kode": "30650000152",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kota Bekasi",
+    "reg_opd": 1091,
+    "created_at": "2017-10-03 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000152"
+  },
+  {
+    "judul": "VISI DAN MISI DPPPA KOTA BEKASI",
+    "deskripsi": "<p>VISI DAN MISI</p>\r\n\r\n<p><em><strong>Visi Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kota Bekasi</strong></em></p>\r\n\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;</strong>&nbsp;&nbsp;<em>&nbsp;&quot;Terwujudnya Kesetaraan dan Keadilan Gender Serta Anak Yang Berkualitas&quot;</em></p>\r\n\r\n<p><em><strong>Misi Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kota Bekasi</strong></em></p>\r\n\r\n<p>1. Mewujudkan manajemen organisasi pemerintahan yang efektif, efisien dan terarah;</p>\r\n\r\n<p>2. Mewujudkan kesetaraan dan keadilan gender serta perlindungan perempuan dan anak;</p>\r\n\r\n<p>3. Mewujudkan Bekasi sebagai Kota Layak Anak.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "kode": "30650000078",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kota Bekasi",
+    "reg_opd": 1091,
+    "created_at": "2017-10-02 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000078"
+  }
+]

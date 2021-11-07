@@ -1,0 +1,24 @@
+[
+  {
+    "judul": "kegiatan bkppd kota beksi",
+    "deskripsi": "Pelayanan Aparatur dilingkungan Pemerintah Kota Bekasi",
+    "kode": "400019378",
+    "dokumen_kategori": "Setiap Saat",
+    "opd": "Badan Kepegawaian, Pendidikan, dan Pelatihan Kota Bekasi",
+    "reg_opd": 1080,
+    "created_at": "2018-09-28 13:34:23",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/400019378"
+  },
+  {
+    "judul": "PELAYAANAN BKPPD KOTA BEKASI",
+    "deskripsi": "PELAYANAN SISTEM INFORMASI APARATUR",
+    "kode": "400011985",
+    "dokumen_kategori": "Setiap Saat",
+    "opd": "Badan Kepegawaian, Pendidikan, dan Pelatihan Kota Bekasi",
+    "reg_opd": 1080,
+    "created_at": "2018-05-08 13:41:59",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/400011985"
+  }
+]

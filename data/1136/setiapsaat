@@ -1,0 +1,35 @@
+[
+  {
+    "judul": "FORMULIR PERNYATAAN KEBERATAN ATAS PERMOHONAN INFORMASI KECAMATAN JATISAMPURNA",
+    "deskripsi": "FORMULIR PERNYATAAN KEBERATAN ATAS PERMOHONAN INFORMASI KECAMATAN JATISAMPURNA",
+    "kode": "300032670",
+    "dokumen_kategori": "Setiap Saat",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2019-05-22 11:54:19",
+    "jenis_informasi": "Regulasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300032670"
+  },
+  {
+    "judul": "STANDAR OPERASIONAL PROSEDUR PPID KECAMATAN JATISAMPURNA KOTA BEKASI",
+    "deskripsi": "Lembar ini berisi tentang uraian alur standar operasional prosedur PPID kecamatan Jatisampurna Kota Bekasi.",
+    "kode": "300032128",
+    "dokumen_kategori": "Setiap Saat",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2019-05-15 14:27:35",
+    "jenis_informasi": "Laporan dan prosedur akses informasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300032128"
+  },
+  {
+    "judul": "FORMULIR PERMOHONAN INFORMASI PUBLIK KECAMATAN JATISAMPURNA KOTA BEKASI",
+    "deskripsi": "Formulir ini merupakan formulir resmi yang harus diisi oleh pemohon informasi yang ditujukan kepada Kecamatan Jatisampurna.",
+    "kode": "300032127",
+    "dokumen_kategori": "Setiap Saat",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2019-05-15 14:23:33",
+    "jenis_informasi": "Laporan dan prosedur akses informasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300032127"
+  }
+]
