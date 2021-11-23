@@ -273,5 +273,38 @@
     "created_at": "2019-09-13 13:59:50",
     "jenis_informasi": "Informasi Kinerja",
     "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300047089"
+  },
+  {
+    "judul": "PERJANJIAN KINERJA DINAS KESEHATAN 2017",
+    "deskripsi": "PERJANJIAN KINERJA DINAS KESEHATAN 2017",
+    "kode": "300008273",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Kesehatan Kota Bekasi",
+    "reg_opd": 1103,
+    "created_at": "2018-03-14 10:30:57",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300008273"
+  },
+  {
+    "judul": "IKU DINAS KESEHATAN",
+    "deskripsi": "IKU Dinas Kesehatan",
+    "kode": "300008272",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Kesehatan Kota Bekasi",
+    "reg_opd": 1103,
+    "created_at": "2018-03-14 10:29:13",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300008272"
+  },
+  {
+    "judul": "RENSTRA DINAS KESEHATAN",
+    "deskripsi": "Renstra Dinas Kesehatan",
+    "kode": "300008271",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Kesehatan Kota Bekasi",
+    "reg_opd": 1103,
+    "created_at": "2018-03-14 10:27:19",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300008271"
   }
 ]
