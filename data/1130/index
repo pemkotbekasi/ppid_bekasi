@@ -53,5 +53,60 @@
     "created_at": "2017-10-03 00:00:00",
     "jenis_informasi": "Program dan Kegiatan",
     "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000242"
+  },
+  {
+    "judul": "STRUKTUR ORGANISASI KECAMATAN MUSTIKAJAYA KOTA BEKASI",
+    "deskripsi": "Struktur Organisasi Kecamatan Mustikajaya Kota Bekasi Periode Tahun 2021\r\n\r\nCAMAT MUSTIKAJAYA \r\nGutus Hermawan EP, S.IP\r\n\r\nSEKRETARIS KEAMATAN MUSTIKAJAYA \r\nMuhamad Arifin, S.IP\r\n\r\nKASI TRANTIB KECAMATAN MUSTIKAJAYA\r\nIman, S.Sos",
+    "kode": "300012319",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Mustikajaya",
+    "reg_opd": 1130,
+    "created_at": "2018-05-11 14:07:23",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300012319"
+  },
+  {
+    "judul": "PROFIL KECAMATAN MUSTIKAJAYA",
+    "deskripsi": "1. VISI KECAMATAN MUSTIKAJAYA \r\n2. LUAS WILAYAH KECAMATAN MUSTIKAJAYA\r\n3. TUPOKSI KECAMATAN MUSTIKAJAYA",
+    "kode": "500012314",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Mustikajaya",
+    "reg_opd": 1130,
+    "created_at": "2018-05-11 13:55:06",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500012314"
+  },
+  {
+    "judul": "Apel Pagi Aparatur Kecamatan Mustikajaya Kota Bekasi",
+    "deskripsi": "Apel Pagi Aparatur Kecamatan Mustikajaya dipimpin oleh Camat Mustikajaya Ibu Hj. Aty Rostaty, S.Ip",
+    "kode": "30650000273",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Mustikajaya",
+    "reg_opd": 1130,
+    "created_at": "2017-10-04 00:00:00",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000273"
+  },
+  {
+    "judul": "VISI MISI KECAMATAN MUSTIKAJAYA KOTA BEKASI",
+    "deskripsi": "<p>Visi Misi Kecamatan Mustikajaya Kota Bekasi</p>\r\n",
+    "kode": "30650000274",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Mustikajaya",
+    "reg_opd": 1130,
+    "created_at": "2017-10-04 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000274"
+  },
+  {
+    "judul": "Kegiatan Pelatihan ",
+    "deskripsi": "<p>Photo Kegiatan tanggal 03 Oktober 2017</p>\r\n",
+    "kode": "30650000242",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Mustikajaya",
+    "reg_opd": 1130,
+    "created_at": "2017-10-03 00:00:00",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000242"
   }
 ]
