@@ -231,6 +231,61 @@
     "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300056355"
   },
   {
+    "judul": "RKT (RENCANA KINERJA TAHUNAN) DINAS KOPERASI, USAHA KECIL DAN MENENGAH KOTA BEKASI TAHUN 2019",
+    "deskripsi": "RENCANA KINERJA TAHUNAN\r\nDINAS KOPERASI, USAHA KECIL DAN MENENGAH KOTA BEKASI Tahun 2019",
+    "kode": "300055689",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Koperasi, Usaha Kecil dan Menengah Kota Bekasi",
+    "reg_opd": 1099,
+    "created_at": "2019-11-06 11:29:49",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300055689"
+  },
+  {
+    "judul": "Renja (Rencana Kerja) pada Dinas Koperasi, Usaha Kecil dan Menengah Kota Bekasi",
+    "deskripsi": "Rencana Kerja pada Dinas Koperasi, Usaha Kecil dan Menengah Kota Bekasi",
+    "kode": "300055688",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Koperasi, Usaha Kecil dan Menengah Kota Bekasi",
+    "reg_opd": 1099,
+    "created_at": "2019-11-06 11:26:03",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300055688"
+  },
+  {
+    "judul": "PERJANJIAN KINERJA (PERKIN) TAHUN 2019",
+    "deskripsi": "Perjanjian Kinerja (PERKIN) TAHUN 2019 pada Dinas Koperasi dan UKM Kota Bekasi",
+    "kode": "300047062",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Koperasi, Usaha Kecil dan Menengah Kota Bekasi",
+    "reg_opd": 1099,
+    "created_at": "2019-09-13 12:14:52",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300047062"
+  },
+  {
+    "judul": "Rencana Strategis (RENSTRA) Tahun 2019-2023",
+    "deskripsi": "Rencana Strategis (RENSTRA) Tahun 2019-2023 pada Dinas Koperasi dan UKM Kota Bekasi",
+    "kode": "300047058",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Koperasi, Usaha Kecil dan Menengah Kota Bekasi",
+    "reg_opd": 1099,
+    "created_at": "2019-09-13 12:08:11",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300047058"
+  },
+  {
+    "judul": "Indikator Kinerja Utama (IKU) 2019",
+    "deskripsi": "Indikator Kinerja Utama (IKU) pada Dinas Koperasi dan UKM Kota Bekasi Tahun 2019",
+    "kode": "300047055",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Koperasi, Usaha Kecil dan Menengah Kota Bekasi",
+    "reg_opd": 1099,
+    "created_at": "2019-09-13 12:02:29",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300047055"
+  },
+  {
     "judul": "STUKTUR ORGANISASI DINAS KOPERASI DAN UKM",
     "deskripsi": "STRUKTUR ORGANISASI DINAS KOPERASI DAN USAHA KECIL DAN MENENGAH KOTA BEKASI",
     "kode": "300028073",
