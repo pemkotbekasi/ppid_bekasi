@@ -88,6 +88,138 @@
     "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/400012303"
   },
   {
+    "judul": "BAGAN STRUKTUR ORGANISASI KEC. JATISAMPURNA KOTA BEKASI",
+    "deskripsi": "Bagan ini menunjukan bagaimana bentuk struktur organisasi yang terdapat didalam Kecamatan Jatisampurna.",
+    "kode": "400032126",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2019-05-15 14:11:57",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/400032126"
+  },
+  {
+    "judul": "PETA  JABATANKECAMATAN JATISAMPURNA",
+    "deskripsi": "PETA JABATAN  KECAMATAN JATISAMPURNA",
+    "kode": "300012318",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2018-05-11 14:04:46",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300012318"
+  },
+  {
+    "judul": "LAPORAN KEPENDUDUKAN KECAMATAN JATISAMPURNA PADA BULAN MARET 2018",
+    "deskripsi": "LAPORAN KEPENDUDUKAN",
+    "kode": "300012315",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2018-05-11 13:55:37",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300012315"
+  },
+  {
+    "judul": "INDIKATOR KINERJA UTAMA KECAMATAN JATISAMPURNA TAHUN 2018",
+    "deskripsi": "INDIKATOR KINERJA UTAMA KECAMATAN JATISAMPURNA TAHUN 2018",
+    "kode": "500012309",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2018-05-11 13:47:38",
+    "jenis_informasi": "Informasi Kinerja",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500012309"
+  },
+  {
+    "judul": "MONOGRAFI KECAMATAN JATISAMPURNA KEADAAN PADA BULAN DESEMBER TAHUN 2016",
+    "deskripsi": "MONOGRAFI KECAMATAN JATISAMPURNA\r\nKEADAAN PADA BULAN DESEMBER TAHUN 2016",
+    "kode": "300012307",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2018-05-11 13:43:41",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300012307"
+  },
+  {
+    "judul": "MONOGRAFI KECAMATAN JATISAMPURNA KEADAAN PADA BULAN DESEMBER TAHUN 2017",
+    "deskripsi": "MONOGRAFI KECAMATAN JATISAMPURNA\r\nKEADAAN PADA BULAN DESEMBER TAHUN 2017",
+    "kode": "300012305",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2018-05-11 13:41:52",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300012305"
+  },
+  {
+    "judul": "LAKIP KECAMATAN JATISAMPURNA TAHUN 2017",
+    "deskripsi": "LAKIP KECAMATAN JATISAMPURNA TAHUN 2017",
+    "kode": "300012304",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2018-05-11 13:39:43",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300012304"
+  },
+  {
+    "judul": "Indikator Program pada Renstra Tahun 2018 Kecamatan Jatisampurna Kota Bekasi",
+    "deskripsi": "Indikator Program pada Renstra Tahun 2018 Kecamatan Jatisampurna Kota Bekasi",
+    "kode": "400012303",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2018-05-11 13:36:14",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/400012303"
+  },
+  {
+    "judul": "PERATURAN WALI KOTA BEKASI NOMOR 73 TAHUN 2018 TENTANG PEDOMAN PPID KOTA BEKASI",
+    "deskripsi": "File ini berisi Peraturan Wali Kota Bekasi No. 73 Tahun 2018 tentang Pedoman Pengelolaan Pelayanan Informasi dan Dokumentasi di Lingkungan Pemerintah Kota Bekasi.\r\n\r\nDasar ini digunakan oleh Kecamatan Jatisampurna.",
+    "kode": "500032129",
+    "dokumen_kategori": "Serta Merta",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2019-05-15 14:32:43",
+    "jenis_informasi": "Regulasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500032129"
+  },
+  {
+    "judul": "FORMULIR PERNYATAAN KEBERATAN ATAS PERMOHONAN INFORMASI KECAMATAN JATISAMPURNA",
+    "deskripsi": "FORMULIR PERNYATAAN KEBERATAN ATAS PERMOHONAN INFORMASI KECAMATAN JATISAMPURNA",
+    "kode": "300032670",
+    "dokumen_kategori": "Setiap Saat",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2019-05-22 11:54:19",
+    "jenis_informasi": "Regulasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300032670"
+  },
+  {
+    "judul": "STANDAR OPERASIONAL PROSEDUR PPID KECAMATAN JATISAMPURNA KOTA BEKASI",
+    "deskripsi": "Lembar ini berisi tentang uraian alur standar operasional prosedur PPID kecamatan Jatisampurna Kota Bekasi.",
+    "kode": "300032128",
+    "dokumen_kategori": "Setiap Saat",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2019-05-15 14:27:35",
+    "jenis_informasi": "Laporan dan prosedur akses informasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300032128"
+  },
+  {
+    "judul": "FORMULIR PERMOHONAN INFORMASI PUBLIK KECAMATAN JATISAMPURNA KOTA BEKASI",
+    "deskripsi": "Formulir ini merupakan formulir resmi yang harus diisi oleh pemohon informasi yang ditujukan kepada Kecamatan Jatisampurna.",
+    "kode": "300032127",
+    "dokumen_kategori": "Setiap Saat",
+    "opd": "Kecamatan Jatisampurna",
+    "reg_opd": 1136,
+    "created_at": "2019-05-15 14:23:33",
+    "jenis_informasi": "Laporan dan prosedur akses informasi",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300032127"
+  },
+  {
     "judul": "PERATURAN WALI KOTA BEKASI NOMOR 73 TAHUN 2018 TENTANG PEDOMAN PPID KOTA BEKASI",
     "deskripsi": "File ini berisi Peraturan Wali Kota Bekasi No. 73 Tahun 2018 tentang Pedoman Pengelolaan Pelayanan Informasi dan Dokumentasi di Lingkungan Pemerintah Kota Bekasi.\r\n\r\nDasar ini digunakan oleh Kecamatan Jatisampurna.",
     "kode": "500032129",
