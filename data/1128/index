@@ -130,5 +130,137 @@
     "created_at": "2017-10-03 00:00:00",
     "jenis_informasi": "Profil Badan Publik",
     "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000244"
+  },
+  {
+    "judul": "Video Profil Kelurahan Kalibaru",
+    "deskripsi": "Video Profil Kelurahan Kalibaru Tahun 2017",
+    "kode": "200012333",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-05-11 14:51:33",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/200012333"
+  },
+  {
+    "judul": "Video Profil Kelurahan Harapan Mulya",
+    "deskripsi": "Video Profil Kelurahan Harapan Mulya Tahun 2017",
+    "kode": "200012332",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-05-11 14:50:14",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/200012332"
+  },
+  {
+    "judul": "Video Profil Kelurahan Medan Satria",
+    "deskripsi": "Video Profil Kelurahan Medan Satria Tahun 2017",
+    "kode": "200012329",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-05-11 14:41:07",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/200012329"
+  },
+  {
+    "judul": "Video Profil Kelurahan Pejuang",
+    "deskripsi": "Video Profil Kelurahan Pejuang Tahun 2017",
+    "kode": "200012327",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-05-11 14:34:02",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/200012327"
+  },
+  {
+    "judul": "Video Profil Kecamatan Medan Satria",
+    "deskripsi": "Profil Kecamatan Medan Satria Tahun 2017",
+    "kode": "200012325",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-05-11 14:22:57",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/200012325"
+  },
+  {
+    "judul": "Laporan Akuntabilitas Kinerja Pemerintah (Lakip) Kec. Medan Satria Tahun 2018",
+    "deskripsi": "Laporan Akuntabilitas Kinerja Pemerintah (Lakip) Kec. Medan Satria Tahun 2018",
+    "kode": "300012324",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-05-11 14:20:47",
+    "jenis_informasi": "Laporan Keuangan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300012324"
+  },
+  {
+    "judul": "Rencana Pembangunan Jangka Menengah Kecamatan Medan Satria",
+    "deskripsi": "Rencana Pembangunan Jangka Menengah Kecamatan Medan Satria Tahun 2013 - 2018",
+    "kode": "300012321",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-05-11 14:13:00",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/300012321"
+  },
+  {
+    "judul": "Renstra Kecamatan Medan Satria 2013-2018",
+    "deskripsi": "Renstra Kecamatan Medan Satria 2013-2018",
+    "kode": "500007766",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-02-27 20:57:29",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500007766"
+  },
+  {
+    "judul": "Perjanjian Kinerja Eselon IV Kecamatan Medan Satria",
+    "deskripsi": "Perjanjian Kinerja Eselon IV Kecamatan Medan Satria",
+    "kode": "500007765",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-02-27 20:56:19",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500007765"
+  },
+  {
+    "judul": "Perjanjian Kinerja Eselon III Kecamatan Medan Satria",
+    "deskripsi": "Perjanjian Kinerja Eselon III Kecamatan Medan Satria",
+    "kode": "500007764",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-02-27 20:54:51",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500007764"
+  },
+  {
+    "judul": "Indikator Kinerja Utama (IKU) Kecamatan Medan Satria Kota Bekasi",
+    "deskripsi": "Indikator Kinerja Utama (IKU) Kecamatan Medan Satria Kota Bekasi",
+    "kode": "500007763",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2018-02-27 20:52:26",
+    "jenis_informasi": "Program dan Kegiatan",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/500007763"
+  },
+  {
+    "judul": "Bagan Struktur Kecamatan Medan Satria",
+    "deskripsi": "<p>Bagan Struktur Organisasi Kecamatan Medan Satria per tanggal 2 Oktober 2017</p>\r\n",
+    "kode": "30650000244",
+    "dokumen_kategori": "Berkala",
+    "opd": "Kecamatan Medan Satria",
+    "reg_opd": 1128,
+    "created_at": "2017-10-03 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000244"
   }
 ]
