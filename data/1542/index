@@ -42,5 +42,49 @@
     "created_at": "2017-07-14 00:00:00",
     "jenis_informasi": "Profil Badan Publik",
     "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000019"
+  },
+  {
+    "judul": "PEGAWAI INSPEKTORAT KOTA BEKASI  TAHUN 2017",
+    "deskripsi": "<p>&nbsp; &nbsp;</p>\r\n",
+    "kode": "30650000258",
+    "dokumen_kategori": "Berkala",
+    "opd": "Inspektorat Kota Bekasi",
+    "reg_opd": 1542,
+    "created_at": "2017-10-03 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000258"
+  },
+  {
+    "judul": "Rencana Strategis Inspektorat Kota Bekasi",
+    "deskripsi": "<p>Rencana Strategis Inspektorat Kota Bekasi</p>",
+    "kode": "30650000072",
+    "dokumen_kategori": "Berkala",
+    "opd": "Inspektorat Kota Bekasi",
+    "reg_opd": 1542,
+    "created_at": "2017-10-02 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000072"
+  },
+  {
+    "judul": "Visi dan Misi Inspektorat Kota Bekasi",
+    "deskripsi": "<p><strong>VISI Inspektorat Kota Bekasi</strong> <strong>:</strong></p>\r\n\r\n<p>“Institusi APIP yang Andal dan Profesional Untuk Mewujudkan Pemerintah Yang Kredibel”</p>\r\n\r\n<p><strong>M</strong><strong>isi</strong><strong> </strong><strong>Inspektorat Kota Bekasi</strong> <strong>:</strong></p>\r\n\r\n<ol>\r\n\t<li>Mendorong peningkatan tata kelola kepemerintahan yang baik;</li>\r\n\t<li>Memberikan kontribusi nyata atas pelaksanaan urusan dan penyelenggaraan pemerintahan daerah.</li>\r\n</ol>",
+    "kode": "30650000077",
+    "dokumen_kategori": "Berkala",
+    "opd": "Inspektorat Kota Bekasi",
+    "reg_opd": 1542,
+    "created_at": "2017-10-02 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000077"
+  },
+  {
+    "judul": "Struktur Organisasi Inspektorat Kota Bekasi",
+    "deskripsi": "<p>Struktur Organisasi Inspektorat Kota Bekasi</p>",
+    "kode": "30650000019",
+    "dokumen_kategori": "Berkala",
+    "opd": "Inspektorat Kota Bekasi",
+    "reg_opd": 1542,
+    "created_at": "2017-07-14 00:00:00",
+    "jenis_informasi": "Profil Badan Publik",
+    "link": "http://ppid.bekasikota.go.id/front/dokumen/detail/30650000019"
   }
 ]
