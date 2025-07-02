@@ -35,6 +35,11 @@
     "opd": "Badan Perencanaan  Pembangunan Daerah Kota Bekasi"
   },
   {
+    "path": "data/10020/index",
+    "reg_opd": 10020,
+    "opd": "Bagian Hukum Setda Belu"
+  },
+  {
     "path": "data/2455/index",
     "reg_opd": 2455,
     "opd": "Dinas Bina Marga dan Sumber Daya Air Kota Bekasi"
@@ -183,6 +188,11 @@
     "path": "data/1137/index",
     "reg_opd": 1137,
     "opd": "Kecamatan Pondok Melati"
+  },
+  {
+    "path": "data/9295/index",
+    "reg_opd": 9295,
+    "opd": "Kelurahan Kalampangan"
   },
   {
     "path": "data/1546/index",
