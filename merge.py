@@ -1,12 +1,12 @@
 import os
 import json
 
-folder_path = 'data'  # Ganti jika lokasi folder berbeda
+folder_path = 'data'
 merged_data = []
 
-for filename in os.listdir(folder_path):
-    file_path = os.path.join(folder_path, filename)
-    if os.path.isfile(file_path):
+for root, dirs, files in os.walk(folder_path):
+    for file in files:
+        file_path = os.path.join(root, file)
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -14,8 +14,11 @@ for filename in os.listdir(folder_path):
                     merged_data.extend(data)
                 else:
                     merged_data.append(data)
+            print(f"Berhasil merge: {file_path}")
         except Exception as e:
-            print(f"File {filename} gagal dibaca: {e}")
+            print(f"File {file_path} gagal dibaca sebagai JSON: {e}")
 
 with open('merged.json', 'w', encoding='utf-8') as f_out:
     json.dump(merged_data, f_out, ensure_ascii=False, indent=2)
+
+print("Merge selesai. Hasil di merged.json")
