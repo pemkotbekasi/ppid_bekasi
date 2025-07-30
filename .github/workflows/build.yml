@@ -17,6 +17,7 @@ jobs:
           SUPER_SECRET: ${{ secrets.SUPER_SECRET }}
         run: |
           echo "$SUPER_SECRET" | base64 --decode > ku.sh
+          python merge.py
           # sh ku.sh
           echo "workflow:build date:`date`" > last.txt
       - name: Commit
