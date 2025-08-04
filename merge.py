@@ -22,6 +22,12 @@ for root, dirs, files in os.walk(input_folder):
         except Exception as e:
             print(f"File {file_path} gagal dibaca sebagai JSON: {e}")
 
+# Simpan semua data mentah ke ppid_pembantu.json sebelum dikelompokkan
+raw_output_path = os.path.join(output_folder, 'ppid_pembantu.json')
+with open(raw_output_path, 'w', encoding='utf-8') as f:
+    json.dump(all_data, f, ensure_ascii=False, indent=2)
+print(f"Simpan file mentah: {raw_output_path} ({len(all_data)} item)")
+
 # Kelompokkan berdasarkan dokumen_kategori
 kategori_groups = defaultdict(list)
 for item in all_data:
