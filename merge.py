@@ -42,4 +42,11 @@ for kategori, items in kategori_groups.items():
         json.dump(items, f, ensure_ascii=False, indent=2)
     print(f"Export: {output_path} ({len(items)} item)")
 
+# Simpan file khusus ppid_utama.json berdasarkan OPD
+ppid_utama = [item for item in all_data if item.get('opd') == 'PPID Utama Kota Bekasi']
+utama_output_path = os.path.join(output_folder, 'ppid_utama.json')
+with open(utama_output_path, 'w', encoding='utf-8') as f:
+    json.dump(ppid_utama, f, ensure_ascii=False, indent=2)
+print(f"Simpan file ppid_utama.json: {utama_output_path} ({len(ppid_utama)} item)")
+
 print("Selesai export per dokumen_kategori ke folder output/")
