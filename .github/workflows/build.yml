@@ -20,6 +20,8 @@ jobs:
           rm -rf output
           mkdir -p output
           python merge.py
+          npm i
+          node menu_bpkad.js
           # sh ku.sh
           echo "workflow:build date:`date`" > last.txt
       - name: Commit
