@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Perencanaan",
+    "href": "https://bpkad.bekasikota.go.id/pages/sakip"
+  },
+  {
+    "name": "KUA-PPAS",
+    "href": "https://bpkad.bekasikota.go.id/pages/kua-ppas"
+  },
+  {
+    "name": "RAPBD",
+    "href": "https://bpkad.bekasikota.go.id/pages/rapbd"
+  },
+  {
+    "name": "Ringkasan APBD",
+    "href": "https://bpkad.bekasikota.go.id/pages/ringkasan-apbd"
+  },
+  {
+    "name": "LKPD",
+    "href": "#",
+    "children": [
+      {
+        "name": "Neraca",
+        "href": "https://bpkad.bekasikota.go.id/pages/neraca"
+      },
+      {
+        "name": "LAK",
+        "href": "https://bpkad.bekasikota.go.id/pages/laporan-arus-kas-lak"
+      },
+      {
+        "name": "LO",
+        "href": "https://bpkad.bekasikota.go.id/pages/laporan-operasional-lo"
+      },
+      {
+        "name": "LPE",
+        "href": "https://bpkad.bekasikota.go.id/pages/lpe"
+      },
+      {
+        "name": "LPSAL",
+        "href": "https://bpkad.bekasikota.go.id/pages/laporan-perubahan-saldo-anggaran-lebih-lpsal"
+      },
+      {
+        "name": "LRA",
+        "href": "#",
+        "children": [
+          {
+            "name": "LRA SKPD",
+            "href": "https://bpkad.bekasikota.go.id/pages/lra-skpd"
+          },
+          {
+            "name": "LRA PPKD",
+            "href": "https://bpkad.bekasikota.go.id/pages/lra-ppkd"
+          }
+        ]
+      },
+      {
+        "name": "CALK",
+        "href": "https://bpkad.bekasikota.go.id/pages/calk-pemerintah-daerah"
+      },
+      {
+        "name": "Opini BPK",
+        "href": "https://bpkad.bekasikota.go.id/pages/opini-bpk"
+      }
+    ]
+  },
+  {
+    "name": "RKA-SKPD",
+    "href": "#",
+    "children": [
+      {
+        "name": "Murni",
+        "href": "https://bpkad.bekasikota.go.id/pages/rka-skpd-murni"
+      },
+      {
+        "name": "Perubahan",
+        "href": "https://bpkad.bekasikota.go.id/pages/rka-skpd-perubahan"
+      }
+    ]
+  },
+  {
+    "name": "RKA-PPKD",
+    "href": "#",
+    "children": [
+      {
+        "name": "Murni",
+        "href": "https://bpkad.bekasikota.go.id/pages/rka-ppkd-murni"
+      },
+      {
+        "name": "Perubahan",
+        "href": "https://bpkad.bekasikota.go.id/pages/rka-ppkd-perubahan"
+      }
+    ]
+  },
+  {
+    "name": "DPA-SKPD",
+    "href": "#",
+    "children": [
+      {
+        "name": "Murni",
+        "href": "https://bpkad.bekasikota.go.id/pages/dpa-skpd-murni"
+      },
+      {
+        "name": "Perubahan",
+        "href": "https://bpkad.bekasikota.go.id/pages/dpa-skpd-perubahan"
+      }
+    ]
+  },
+  {
+    "name": "DPA-PPKD",
+    "href": "#",
+    "children": [
+      {
+        "name": "Murni",
+        "href": "https://bpkad.bekasikota.go.id/pages/dpa-ppkd-murni"
+      },
+      {
+        "name": "Perubahan",
+        "href": "https://bpkad.bekasikota.go.id/pages/dpa-ppkd-perubahan"
+      }
+    ]
+  },
+  {
+    "name": "Realisasi APBD",
+    "href": "https://bpkad.bekasikota.go.id/pages/laporan-realisasi-anggaran-lra"
+  },
+  {
+    "name": "Ikhtisar LK BUMD",
+    "href": "https://bpkad.bekasikota.go.id/pages/ikhtisar-laporan-keuangan-bumd"
+  }
+]
