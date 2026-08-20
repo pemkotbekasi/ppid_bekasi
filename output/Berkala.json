@@ -80,11 +80,11 @@
 
    {
             "id": "UrZoN4MAJK",
-            "judul": "Lembar Uji Konsekuensi",
+            "judul": "Lembar Uji Konsekuensi BPKAD",
             "deskripsi": "LUK",
             "kode": "00",
             "dokumen_kategori": "Berkala",
-            "opd": "WALIKOTA BEKASI",
+            "opd": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi",
             "reg_opd": "100000000000",
             "jenis_informasi": "Informasi Berkala",
             "tahun": 2026,
@@ -96,8 +96,8 @@
             "created_at": "2026-08-20T12:17:42.160Z",
             "updated_at": "2026-08-20T12:17:42.160Z",
             "opdData": {
-                "id": "100000000000",
-                "name": "WALIKOTA BEKASI"
+                "id": "100400000000",
+                "name": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi"
             },
             "jenisInformasiData": {
                 "id": "fZmDD",
