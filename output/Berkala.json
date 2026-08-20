@@ -1,31 +1,35 @@
 [
+   
+
+
+
    {
-            "id": "xs9BCiFcd1",
-            "judul": "ba DIK CAPIL",
-            "deskripsi": "DIK CAPIL",
-            "kode": "1",
+            "id": "hmRXzdT5f4",
+            "judul": "Lembar uji konsekuensi DIK BPKAD",
+            "deskripsi": "DIK",
+            "kode": "00",
             "dokumen_kategori": "Berkala",
-            "opd": "Dinas Kependudukan Dan Pencatatan Sipil Kota Bekasi",
-            "reg_opd": "102600000000",
-            "jenis_informasi": "Berkala",
+            "opd": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi",
+            "reg_opd": "100400000000",
+            "jenis_informasi": "fZmDD",
             "tahun": 2026,
             "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
             "input_by": "1234567890",
             "is_activate": true,
             "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/xs9BCiFcd1/view",
-            "created_at": "2026-08-20T14:07:44.659Z",
-            "updated_at": "2026-08-20T14:07:44.659Z",
+            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/hmRXzdT5f4/view",
+            "created_at": "2026-08-20T15:00:36.846Z",
+            "updated_at": "2026-08-20T15:00:36.846Z",
             "opdData": {
-                "id": "102600000000",
-                "name": "Dinas Kependudukan Dan Pencatatan Sipil Kota Bekasi"
+                "id": "100400000000",
+                "name": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi"
             },
             "jenisInformasiData": {
                 "id": "fZmDD",
                 "jenis_informasi": "Informasi Berkala"
             }
         },
-           {
+        {
             "id": "XGjXsu1oXO",
             "judul": "Daftar Informasi Yang Dikecualikan",
             "deskripsi": "DIK",
@@ -33,7 +37,7 @@
             "dokumen_kategori": "Berkala",
             "opd": "WALIKOTA BEKASI",
             "reg_opd": "100000000000",
-            "jenis_informasi": "Berkala",
+            "jenis_informasi": "fZmDD",
             "tahun": 2026,
             "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
             "input_by": "1234567890",
@@ -52,52 +56,25 @@
             }
         },
         {
-            "id": "U_N6YDOjG8",
-            "judul": "daftar informasi yang dikecualikan",
-            "deskripsi": "DIK",
-            "kode": "1",
-            "dokumen_kategori": "Berkala",
-            "opd": "WALIKOTA BEKASI",
-            "reg_opd": "100000000000",
-            "jenis_informasi": "Berkala",
-            "tahun": 2026,
-            "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
-            "input_by": "1234567890",
-            "is_activate": true,
-            "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/U_N6YDOjG8/view",
-            "created_at": "2026-08-20T14:04:24.220Z",
-            "updated_at": "2026-08-20T14:04:54.983Z",
-            "opdData": {
-                "id": "100000000000",
-                "name": "WALIKOTA BEKASI"
-            },
-            "jenisInformasiData": {
-                "id": "GCX-7",
-                "jenis_informasi": "Informasi Setiap Saat"
-            }
-        },
-
-   {
             "id": "UrZoN4MAJK",
-            "judul": "Lembar Uji Konsekuensi BPKAD",
+            "judul": "Lembar Uji Konsekuensi Disduk Capil",
             "deskripsi": "LUK",
             "kode": "00",
             "dokumen_kategori": "Berkala",
-            "opd": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi",
-            "reg_opd": "100000000000",
-            "jenis_informasi": "Informasi Berkala",
+            "opd": "Dinas Kependudukan Dan Pencatatan Sipil Kota Bekasi",
+            "reg_opd": "102600000000",
+            "jenis_informasi": "fZmDD",
             "tahun": 2026,
             "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
             "input_by": "1234567890",
             "is_activate": true,
             "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/UrZoN4MAJK/view",
+            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/arh6PNE_U9/view",
             "created_at": "2026-08-20T12:17:42.160Z",
-            "updated_at": "2026-08-20T12:17:42.160Z",
+            "updated_at": "2026-08-20T14:59:23.379Z",
             "opdData": {
-                "id": "100400000000",
-                "name": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi"
+                "id": "102600000000",
+                "name": "Dinas Kependudukan Dan Pencatatan Sipil Kota Bekasi"
             },
             "jenisInformasiData": {
                 "id": "fZmDD",
@@ -112,13 +89,13 @@
             "dokumen_kategori": "Berkala",
             "opd": "WALIKOTA BEKASI",
             "reg_opd": "100000000000",
-            "jenis_informasi": "Informasi Berkala",
+            "jenis_informasi": "fZmDD",
             "tahun": 2026,
             "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
             "input_by": "1234567890",
             "is_activate": true,
             "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/jvqADK8TAH/view",
+            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/arh6PNE_U9/view",
             "created_at": "2026-08-20T12:16:29.891Z",
             "updated_at": "2026-08-20T13:03:46.710Z",
             "opdData": {
@@ -138,7 +115,7 @@
             "dokumen_kategori": "Berkala",
             "opd": "WALIKOTA BEKASI",
             "reg_opd": "100000000000",
-            "jenis_informasi": "Informasi Berkala",
+            "jenis_informasi": "fZmDD",
             "tahun": 2026,
             "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
             "input_by": "1234567890",
@@ -164,7 +141,7 @@
             "dokumen_kategori": "Berkala",
             "opd": "WALIKOTA BEKASI",
             "reg_opd": "100000000000",
-            "jenis_informasi": "Informasi Berkala",
+            "jenis_informasi": "fZmDD",
             "tahun": 2026,
             "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
             "input_by": "1234567890",
@@ -181,7 +158,9 @@
                 "id": "fZmDD",
                 "jenis_informasi": "Informasi Berkala"
             }
-        },
+        }
+
+   
   {
     "judul": "Video Profil Kelurahan Kalibaru",
     "deskripsi": "Video Profil Kelurahan Kalibaru Tahun 2017",
