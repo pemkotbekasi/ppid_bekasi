@@ -1,4 +1,110 @@
 [
+
+
+   {
+            "id": "UrZoN4MAJK",
+            "judul": "Lembar Uji Konsekuensi",
+            "deskripsi": "LUK",
+            "kode": "00",
+            "dokumen_kategori": "Berkala",
+            "opd": "WALIKOTA BEKASI",
+            "reg_opd": "100000000000",
+            "jenis_informasi": "fZmDD",
+            "tahun": 2026,
+            "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
+            "input_by": "1234567890",
+            "is_activate": true,
+            "is_public": true,
+            "link": "GcP3aL3mqC.pdf",
+            "created_at": "2026-08-20T12:17:42.160Z",
+            "updated_at": "2026-08-20T12:17:42.160Z",
+            "opdData": {
+                "id": "100000000000",
+                "name": "WALIKOTA BEKASI"
+            },
+            "jenisInformasiData": {
+                "id": "fZmDD",
+                "jenis_informasi": "Informasi Berkala"
+            }
+        },
+        {
+            "id": "jvqADK8TAH",
+            "judul": "BA Uji Konsekuensi DIK",
+            "deskripsi": "BA DIK",
+            "kode": "1",
+            "dokumen_kategori": "Berkala",
+            "opd": "WALIKOTA BEKASI",
+            "reg_opd": "100000000000",
+            "jenis_informasi": "fZmDD",
+            "tahun": 2026,
+            "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
+            "input_by": "1234567890",
+            "is_activate": true,
+            "is_public": true,
+            "link": "qoczuK5IWP.pdf",
+            "created_at": "2026-08-20T12:16:29.891Z",
+            "updated_at": "2026-08-20T13:03:46.710Z",
+            "opdData": {
+                "id": "100000000000",
+                "name": "WALIKOTA BEKASI"
+            },
+            "jenisInformasiData": {
+                "id": "fZmDD",
+                "jenis_informasi": "Informasi Berkala"
+            }
+        },
+        {
+            "id": "arh6PNE_U9",
+            "judul": "Surat Keputusan PPID Daftar Informasi yang Di Kecualikan",
+            "deskripsi": "DIK",
+            "kode": "00",
+            "dokumen_kategori": "Berkala",
+            "opd": "WALIKOTA BEKASI",
+            "reg_opd": "100000000000",
+            "jenis_informasi": "fZmDD",
+            "tahun": 2026,
+            "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
+            "input_by": "1234567890",
+            "is_activate": true,
+            "is_public": true,
+            "link": "D7Mexr4LuD.pdf",
+            "created_at": "2026-08-20T12:14:57.459Z",
+            "updated_at": "2026-08-20T12:14:57.459Z",
+            "opdData": {
+                "id": "100000000000",
+                "name": "WALIKOTA BEKASI"
+            },
+            "jenisInformasiData": {
+                "id": "fZmDD",
+                "jenis_informasi": "Informasi Berkala"
+            }
+        },
+        {
+            "id": "fRflyW_89b",
+            "judul": "Surat Keputusan Wali Kota Daftar Informasi Publik",
+            "deskripsi": "dip",
+            "kode": "383",
+            "dokumen_kategori": "Berkala",
+            "opd": "WALIKOTA BEKASI",
+            "reg_opd": "100000000000",
+            "jenis_informasi": "fZmDD",
+            "tahun": 2026,
+            "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
+            "input_by": "1234567890",
+            "is_activate": true,
+            "is_public": true,
+            "link": "Faw31Wff7d.pdf",
+            "created_at": "2026-08-20T12:12:40.878Z",
+            "updated_at": "2026-08-20T12:12:40.878Z",
+            "opdData": {
+                "id": "100000000000",
+                "name": "WALIKOTA BEKASI"
+            },
+            "jenisInformasiData": {
+                "id": "fZmDD",
+                "jenis_informasi": "Informasi Berkala"
+            }
+        },
   {
     "judul": "Video Profil Kelurahan Kalibaru",
     "deskripsi": "Video Profil Kelurahan Kalibaru Tahun 2017",
