@@ -1,166 +1,160 @@
 [
-   
-
-
-
-   {
-            "id": "hmRXzdT5f4",
-            "judul": "Lembar uji konsekuensi DIK BPKAD",
-            "deskripsi": "DIK",
-            "kode": "00",
-            "dokumen_kategori": "Berkala",
-            "opd": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi",
-            "reg_opd": "100400000000",
-            "jenis_informasi": "Berkala",
-            "tahun": 2026,
-            "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
-            "input_by": "1234567890",
-            "is_activate": true,
-            "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/hmRXzdT5f4/view",
-            "created_at": "2026-08-20T15:00:36.846Z",
-            "updated_at": "2026-08-20T15:00:36.846Z",
-            "opdData": {
-                "id": "100400000000",
-                "name": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi"
-            },
-            "jenisInformasiData": {
-                "id": "fZmDD",
-                "jenis_informasi": "Informasi Berkala"
-            }
-        },
-        {
-            "id": "XGjXsu1oXO",
-            "judul": "Daftar Informasi Yang Dikecualikan",
-            "deskripsi": "DIK",
-            "kode": "1",
-            "dokumen_kategori": "Berkala",
-            "opd": "WALIKOTA BEKASI",
-            "reg_opd": "100000000000",
-            "jenis_informasi": "Berkala",
-            "tahun": 2026,
-            "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
-            "input_by": "1234567890",
-            "is_activate": true,
-            "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/XGjXsu1oXO/view",
-            "created_at": "2026-08-20T14:40:43.468Z",
-            "updated_at": "2026-08-20T14:40:43.468Z",
-            "opdData": {
-                "id": "100000000000",
-                "name": "WALIKOTA BEKASI"
-            },
-            "jenisInformasiData": {
-                "id": "fZmDD",
-                "jenis_informasi": "Informasi Berkala"
-            }
-        },
-        {
-            "id": "UrZoN4MAJK",
-            "judul": "Lembar Uji Konsekuensi Disduk Capil",
-            "deskripsi": "LUK",
-            "kode": "00",
-            "dokumen_kategori": "Berkala",
-            "opd": "Dinas Kependudukan Dan Pencatatan Sipil Kota Bekasi",
-            "reg_opd": "102600000000",
-            "jenis_informasi": "Berkala",
-            "tahun": 2026,
-            "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
-            "input_by": "1234567890",
-            "is_activate": true,
-            "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/arh6PNE_U9/view",
-            "created_at": "2026-08-20T12:17:42.160Z",
-            "updated_at": "2026-08-20T14:59:23.379Z",
-            "opdData": {
-                "id": "102600000000",
-                "name": "Dinas Kependudukan Dan Pencatatan Sipil Kota Bekasi"
-            },
-            "jenisInformasiData": {
-                "id": "fZmDD",
-                "jenis_informasi": "Informasi Berkala"
-            }
-        },
-        {
-            "id": "jvqADK8TAH",
-            "judul": "BA Uji Konsekuensi DIK",
-            "deskripsi": "BA DIK",
-            "kode": "1",
-            "dokumen_kategori": "Berkala",
-            "opd": "WALIKOTA BEKASI",
-            "reg_opd": "100000000000",
-            "jenis_informasi": "Berkala",
-            "tahun": 2026,
-            "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
-            "input_by": "1234567890",
-            "is_activate": true,
-            "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/arh6PNE_U9/view",
-            "created_at": "2026-08-20T12:16:29.891Z",
-            "updated_at": "2026-08-20T13:03:46.710Z",
-            "opdData": {
-                "id": "100000000000",
-                "name": "WALIKOTA BEKASI"
-            },
-            "jenisInformasiData": {
-                "id": "fZmDD",
-                "jenis_informasi": "Informasi Berkala"
-            }
-        },
-        {
-            "id": "arh6PNE_U9",
-            "judul": "Surat Keputusan PPID Daftar Informasi yang Di Kecualikan",
-            "deskripsi": "DIK",
-            "kode": "00",
-            "dokumen_kategori": "Berkala",
-            "opd": "WALIKOTA BEKASI",
-            "reg_opd": "100000000000",
-            "jenis_informasi": "Berkala",
-            "tahun": 2026,
-            "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
-            "input_by": "1234567890",
-            "is_activate": true,
-            "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/arh6PNE_U9/view",
-            "created_at": "2026-08-20T12:14:57.459Z",
-            "updated_at": "2026-08-20T12:14:57.459Z",
-            "opdData": {
-                "id": "100000000000",
-                "name": "WALIKOTA BEKASI"
-            },
-            "jenisInformasiData": {
-                "id": "fZmDD",
-                "jenis_informasi": "Informasi Berkala"
-            }
-        },
-        {
-            "id": "fRflyW_89b",
-            "judul": "Surat Keputusan Wali Kota Daftar Informasi Publik",
-            "deskripsi": "dip",
-            "kode": "383",
-            "dokumen_kategori": "Berkala",
-            "opd": "WALIKOTA BEKASI",
-            "reg_opd": "100000000000",
-            "jenis_informasi": "Berkala",
-            "tahun": 2026,
-            "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
-            "input_by": "1234567890",
-            "is_activate": true,
-            "is_public": true,
-            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/fRflyW_89b/view",
-            "created_at": "2026-08-20T12:12:40.878Z",
-            "updated_at": "2026-08-20T12:12:40.878Z",
-            "opdData": {
-                "id": "100000000000",
-                "name": "WALIKOTA BEKASI"
-            },
-            "jenisInformasiData": {
-                "id": "fZmDD",
-                "jenis_informasi": "Informasi Berkala"
-            }
-        },
-
-   
+  {
+    "id": "hmRXzdT5f4",
+    "judul": "Lembar uji konsekuensi DIK BPKAD",
+    "deskripsi": "DIK",
+    "kode": "00",
+    "dokumen_kategori": "Berkala",
+    "opd": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi",
+    "reg_opd": "100400000000",
+    "jenis_informasi": "Berkala",
+    "tahun": 2026,
+    "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
+    "input_by": "1234567890",
+    "is_activate": true,
+    "is_public": true,
+    "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/hmRXzdT5f4/view",
+    "created_at": "2026-08-20T15:00:36.846Z",
+    "updated_at": "2026-08-20T15:00:36.846Z",
+    "opdData": {
+      "id": "100400000000",
+      "name": "Badan Pengelolaan Keuangan Dan Aset Daerah Kota Bekasi"
+    },
+    "jenisInformasiData": {
+      "id": "fZmDD",
+      "jenis_informasi": "Informasi Berkala"
+    }
+  },
+  {
+    "id": "XGjXsu1oXO",
+    "judul": "Daftar Informasi Yang Dikecualikan",
+    "deskripsi": "DIK",
+    "kode": "1",
+    "dokumen_kategori": "Berkala",
+    "opd": "WALIKOTA BEKASI",
+    "reg_opd": "100000000000",
+    "jenis_informasi": "Berkala",
+    "tahun": 2026,
+    "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
+    "input_by": "1234567890",
+    "is_activate": true,
+    "is_public": true,
+    "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/XGjXsu1oXO/view",
+    "created_at": "2026-08-20T14:40:43.468Z",
+    "updated_at": "2026-08-20T14:40:43.468Z",
+    "opdData": {
+      "id": "100000000000",
+      "name": "WALIKOTA BEKASI"
+    },
+    "jenisInformasiData": {
+      "id": "fZmDD",
+      "jenis_informasi": "Informasi Berkala"
+    }
+  },
+  {
+    "id": "UrZoN4MAJK",
+    "judul": "Lembar Uji Konsekuensi Disduk Capil",
+    "deskripsi": "LUK",
+    "kode": "00",
+    "dokumen_kategori": "Berkala",
+    "opd": "Dinas Kependudukan Dan Pencatatan Sipil Kota Bekasi",
+    "reg_opd": "102600000000",
+    "jenis_informasi": "Berkala",
+    "tahun": 2026,
+    "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
+    "input_by": "1234567890",
+    "is_activate": true,
+    "is_public": true,
+    "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/arh6PNE_U9/view",
+    "created_at": "2026-08-20T12:17:42.160Z",
+    "updated_at": "2026-08-20T14:59:23.379Z",
+    "opdData": {
+      "id": "102600000000",
+      "name": "Dinas Kependudukan Dan Pencatatan Sipil Kota Bekasi"
+    },
+    "jenisInformasiData": {
+      "id": "fZmDD",
+      "jenis_informasi": "Informasi Berkala"
+    }
+  },
+  {
+    "id": "jvqADK8TAH",
+    "judul": "BA Uji Konsekuensi DIK",
+    "deskripsi": "BA DIK",
+    "kode": "1",
+    "dokumen_kategori": "Berkala",
+    "opd": "WALIKOTA BEKASI",
+    "reg_opd": "100000000000",
+    "jenis_informasi": "Berkala",
+    "tahun": 2026,
+    "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
+    "input_by": "1234567890",
+    "is_activate": true,
+    "is_public": true,
+    "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/arh6PNE_U9/view",
+    "created_at": "2026-08-20T12:16:29.891Z",
+    "updated_at": "2026-08-20T13:03:46.710Z",
+    "opdData": {
+      "id": "100000000000",
+      "name": "WALIKOTA BEKASI"
+    },
+    "jenisInformasiData": {
+      "id": "fZmDD",
+      "jenis_informasi": "Informasi Berkala"
+    }
+  },
+  {
+    "id": "arh6PNE_U9",
+    "judul": "Surat Keputusan PPID Daftar Informasi yang Di Kecualikan",
+    "deskripsi": "DIK",
+    "kode": "00",
+    "dokumen_kategori": "Berkala",
+    "opd": "WALIKOTA BEKASI",
+    "reg_opd": "100000000000",
+    "jenis_informasi": "Berkala",
+    "tahun": 2026,
+    "tanggal_release_dokumen": "2026-08-18T00:00:00.000Z",
+    "input_by": "1234567890",
+    "is_activate": true,
+    "is_public": true,
+    "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/arh6PNE_U9/view",
+    "created_at": "2026-08-20T12:14:57.459Z",
+    "updated_at": "2026-08-20T12:14:57.459Z",
+    "opdData": {
+      "id": "100000000000",
+      "name": "WALIKOTA BEKASI"
+    },
+    "jenisInformasiData": {
+      "id": "fZmDD",
+      "jenis_informasi": "Informasi Berkala"
+    }
+  },
+  {
+    "id": "fRflyW_89b",
+    "judul": "Surat Keputusan Wali Kota Daftar Informasi Publik",
+    "deskripsi": "dip",
+    "kode": "383",
+    "dokumen_kategori": "Berkala",
+    "opd": "WALIKOTA BEKASI",
+    "reg_opd": "100000000000",
+    "jenis_informasi": "Berkala",
+    "tahun": 2026,
+    "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
+    "input_by": "1234567890",
+    "is_activate": true,
+    "is_public": true,
+    "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/fRflyW_89b/view",
+    "created_at": "2026-08-20T12:12:40.878Z",
+    "updated_at": "2026-08-20T12:12:40.878Z",
+    "opdData": {
+      "id": "100000000000",
+      "name": "WALIKOTA BEKASI"
+    },
+    "jenisInformasiData": {
+      "id": "fZmDD",
+      "jenis_informasi": "Informasi Berkala"
+    }
+  },
   {
     "judul": "Video Profil Kelurahan Kalibaru",
     "deskripsi": "Video Profil Kelurahan Kalibaru Tahun 2017",
