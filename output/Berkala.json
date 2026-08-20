@@ -25,6 +25,32 @@
                 "jenis_informasi": "Informasi Berkala"
             }
         },
+           {
+            "id": "XGjXsu1oXO",
+            "judul": "Daftar Informasi Yang Dikecualikan",
+            "deskripsi": "DIK",
+            "kode": "1",
+            "dokumen_kategori": "Berkala",
+            "opd": "WALIKOTA BEKASI",
+            "reg_opd": "100000000000",
+            "jenis_informasi": "Berkala",
+            "tahun": 2026,
+            "tanggal_release_dokumen": "2026-08-20T00:00:00.000Z",
+            "input_by": "1234567890",
+            "is_activate": true,
+            "is_public": true,
+            "link": "https://ppid.bekasikota.go.id/admin/api/public/dokumen/XGjXsu1oXO/view",
+            "created_at": "2026-08-20T14:40:43.468Z",
+            "updated_at": "2026-08-20T14:40:43.468Z",
+            "opdData": {
+                "id": "100000000000",
+                "name": "WALIKOTA BEKASI"
+            },
+            "jenisInformasiData": {
+                "id": "fZmDD",
+                "jenis_informasi": "Informasi Berkala"
+            }
+        },
         {
             "id": "U_N6YDOjG8",
             "judul": "daftar informasi yang dikecualikan",
